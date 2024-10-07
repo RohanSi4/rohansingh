@@ -1,0 +1,8 @@
+1. What did you learn about working with CSV files and pandas DataFrames in this assignment?
+In this assignment, I got more comfortable working with CSV files and pandas DataFrames. I learned how to load, clean, and filter data, which was especially useful for handling player stats. Grouping data and calculating totals, like finding which players scored the most or which schools had the best stats, were key skills I picked up. These techniques are useful not just for sports but for analyzing any kind of data in the future.
+
+2. What was the most challenging aspect of this assignment, and how did you overcome it?
+One of the toughest parts was dealing with messy data, like "Unnamed" columns and extra rows. Cleaning that up took some time, and I had to make sure the data was in the right format before doing any analysis. Breaking things down into smaller tasks and checking my work step by step helped a lot.
+
+3. How do you think the insights gained from analyzing ACC basketball statistics could be applied to other real-world datasets?
+The skills from this project, like filtering data and calculating totals, apply to lots of fields. Whether it’s in business, healthcare, or something else, knowing how to clean and analyze data is essential. This experience gave me a good foundation for tackling more complex data sets in the future.
